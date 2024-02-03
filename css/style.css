@@ -27,10 +27,9 @@ p{
 img{
     width: 250px;
     border: #ffffff 10px dashed;
-    align-items: center;
-    align-content: center;
-    display:flex;
-    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 div{
